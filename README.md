@@ -2,11 +2,11 @@
 <img width="2160" height="1082" alt="nvgcase_2026-Sep-10_08-17-44PM-000_CustomizedView17247659159" src="https://github.com/user-attachments/assets/65a176c9-3c9a-48a8-8f03-5b8672d4621b" />
 
 
-A drone camera converted into a night vision goggle setup, built around a Meteor85 Pro drone core.
+A drone camera converted into a night vision goggle setup, using a Meteor85 Pro drone core.
 
 ## Overview
 
-This project turns an FPV drone camera into a night vision module that connects to drone goggles. The IR-cut filter is removed from the camera to let it see in IR light, and the board is rehoused in a custom 3D printed case with active cooling to keep it from overheating.
+This project turns an FPV drone camera into a night vision module that connects to drone goggles. The IR filter is removed from the camera to let it see light humans cant, and the board is placed in a custom case with active cooling to keep it from overheating.
 
 **Features**
 
@@ -14,11 +14,11 @@ This project turns an FPV drone camera into a night vision module that connects 
 - Camera based on the Meteor85 Pro drone board
 - Heat sink and fan cooling
 - Custom case with holes for airflow
-- Screw holes and a quick mounting systems
+- Screw holes and a quick mounting system
 
 ## How To Build
 
-Take a Meteor 85 drone and disassemble removing all parts besides the transmitter board and camera. Then get a new camera such as the one linked in the BOM. Afterward, remove the IR filter from the new camera and replace the old camera with it. Once you're done, strip some wire off the battery cables, solder your positive to blue and negative to ground, and screw in your fan. Finally, mount your IR flashlight on top of the case with hot glue. If you've followed the instructions and not fried your board you're done!
+Take a Meteor 85 drone and disassemble removing all parts besides the transmitter board and camera. Then get a new camera such as the one linked in the BOM. Afterward, remove the IR filter from the new camera and replace the old camera with it. Once you're done, strip some wire off the battery cables, solder your positive to blue and negative to ground, and screw in your fan. Finally, mount your IR flashlight on top of the case with hot glue. If you've followed the instructions and not fried your board, you're done!
 
 
 ## Bill of Materials
