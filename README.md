@@ -23,8 +23,8 @@ Take a meteor 85 drone and disassemble removing all parts besides the transmitte
 
 | File | Description |
 | --- | --- |
-| `casetop.stl` | Printable top half of the case |
-| `casebottom.stl` | Printable bottom half of the case |
+| `casetop.stl` | STL for the top half of the case |
+| `casebottom.stl` | STL for the bottom half of the case |
 | `nvgcase.f3d` | Fusion 360 source file for the case |
 
 ## Demo
