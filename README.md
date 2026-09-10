@@ -1,4 +1,5 @@
 # Night Vision Cam
+<img width="968" height="636" alt="image" src="https://github.com/user-attachments/assets/4554fbae-6514-4e2d-98f0-fbd5e3192507" />
 
 A drone camera converted into a night vision goggle setup, built around a Meteor85 Pro drone core.
 
