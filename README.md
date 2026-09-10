@@ -12,11 +12,11 @@ This project turns an FPV drone camera into a night vision module that connects 
 - Camera based on the Meteor85 Pro drone board
 - Heat sink and fan cooling
 - Custom case with holes for airflow
-- Screw holes and a quick mounting system
+- Screw holes and a quick mounting systems
 
 ## How To Build
 
-Take a Meteor 85 drone and disassemble removing all parts besides the transmitter board and camera. Then get a new camera such as the one linked in the BOM. Afterward, remove the IR filter from the new camera and replace the old camera with it. Once you're done, strip some wire off the battery cables, solder your positive to blue and negative to ground, and screw in your fan. Finally, mount your IR flashlight on top of the case with hot glue. If you've followed the instructions and not fried your board your done! 
+Take a Meteor 85 drone and disassemble removing all parts besides the transmitter board and camera. Then get a new camera such as the one linked in the BOM. Afterward, remove the IR filter from the new camera and replace the old camera with it. Once you're done, strip some wire off the battery cables, solder your positive to blue and negative to ground, and screw in your fan. Finally, mount your IR flashlight on top of the case with hot glue. If you've followed the instructions and not fried your board you're done!
 
 
 ## Bill of Materials
@@ -31,9 +31,9 @@ Take a Meteor 85 drone and disassemble removing all parts besides the transmitte
 
 | File | Description |
 | --- | --- |
-| `casetop.stl` | STL for the top half of the case |
-| `casebottom.stl` | STL for the bottom half of the case |
-| `nvgcase.f3d` | Source file for the case |
+| [`casetop.stl`](https://github.com/ryanjetplane1/Night-Vision-Cam/blob/main/casetop.stl) | STL for the top half of the case |
+| [`casebottom.stl`](https://github.com/ryanjetplane1/Night-Vision-Cam/blob/main/casebottom.stl) | STL for the bottom half of the case |
+| [`nvgcase.f3d`](https://github.com/ryanjetplane1/Night-Vision-Cam/blob/main/nvgcase.f3d) | Source file for the case |
 
 ## Demo
 
