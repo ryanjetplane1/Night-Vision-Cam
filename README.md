@@ -1,6 +1,7 @@
+
 # Night Vision Cam
 <img width="2160" height="1082" alt="nvgcase_2026-Sep-10_08-17-44PM-000_CustomizedView17247659159" src="https://github.com/user-attachments/assets/65a176c9-3c9a-48a8-8f03-5b8672d4621b" />
-
+<img width="1536" height="1152" alt="IMG_9076" src="https://github.com/user-attachments/assets/cebf8fb8-5668-477e-bae9-28e2e9dda2e0" />
 
 A drone camera converted into a night vision goggle setup, using a Meteor85 Pro drone core.
 
